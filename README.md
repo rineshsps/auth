@@ -1,2 +1,2 @@
-# auth
-authentication filters
+# authentication
+authentication using basic filters
